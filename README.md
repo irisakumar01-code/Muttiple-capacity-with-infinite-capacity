@@ -60,6 +60,7 @@ print("-----------------------------------------------------")
 ~~~
 
 ## Output :
+![img](siri.png)
 
 ## Result : 
  Multiple server with infinite capacity - (M/M/c):(oo/FIFO) studied successfully
